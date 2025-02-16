@@ -17,8 +17,7 @@ A fully responsive **Movies App** rebuilt using **Bootstrap** to replace the ori
 
 ## How to Use
 1. Clone the repository.
-2. Open `index.html` (or `login.html`) in your browser.
-3. Register a new account or log in with existing credentials.
+2. Open `index.html` in your browser.
 
 ## Live Demo
 [View Live Demo](https://mohamed-elfar.github.io/Movies-App-Refactored/)
